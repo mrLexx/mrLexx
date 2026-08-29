@@ -80,6 +80,13 @@ Backend / DevOps engineer &nbsp;·&nbsp; Go &nbsp;·&nbsp; PHP &nbsp;·&nbsp; CI
 
 ![Top Languages](./profile/top-langs.svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mrLexx)
+</div>
+
+## 📬 Contacts
+
+<div align="center">
+
+Telegram: [@niceMrLexx](https://t.me/niceMrLexx)  
+GitHub: [github.com/mrLexx](https://github.com/mrLexx)
 
 </div>
