@@ -12,8 +12,6 @@ Backend / DevOps engineer &nbsp;·&nbsp; Go &nbsp;·&nbsp; PHP &nbsp;·&nbsp; CI
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=mrLexx&color=green)
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -86,7 +84,10 @@ Backend / DevOps engineer &nbsp;·&nbsp; Go &nbsp;·&nbsp; PHP &nbsp;·&nbsp; CI
 
 <div align="center">
 
+City: Moscow  
 Telegram: [@niceMrLexx](https://t.me/niceMrLexx)  
 GitHub: [github.com/mrLexx](https://github.com/mrLexx)
 
 </div>
+
+![](https://komarev.com/ghpvc/?username=mrLexx&color=green)
